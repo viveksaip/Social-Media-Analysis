@@ -1,4 +1,4 @@
-# Social-Media-Analysis
+# Social-Media-Analytics
 
 Objective
 To extract data from popular social media platforms and perform sentiment and statistical analysis on the same to obtain the overall public sentiment and temperament regarding a particular news or Phrase
@@ -22,4 +22,6 @@ Hate speech detection
 Pre Poll trends during Elections
 Knowing the sentiment data of your competitors will give you a leading edge in the competition
 
+Results
 
+![](Images/piechart.png)
