@@ -1,4 +1,4 @@
-# Social-Media-Analytics
+# Social Media Analytics
 
 Objective
 To extract data from popular social media platforms and perform sentiment and statistical analysis on the same to obtain the overall public sentiment and temperament regarding a particular news or Phrase
@@ -24,4 +24,7 @@ Knowing the sentiment data of your competitors will give you a leading edge in t
 
 Results
 
-![](Images/piechart.png)
+![](Images/piechart.png)     ![](Images/wordcloud.png) 
+
+
+
